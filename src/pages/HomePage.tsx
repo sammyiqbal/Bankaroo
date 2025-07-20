@@ -120,7 +120,7 @@ const HomePage: React.FC = () => {
                 <div className="w-12 h-12 bg-teal-100 rounded-full flex items-center justify-center">
                 <img
           src="ritika.jpeg"
-          alt="julia fredz"
+          alt="Shakira Mia"
           className="w-full h-full object-cover rounded-full"
         />
                 </div>
@@ -139,7 +139,7 @@ const HomePage: React.FC = () => {
                 <div className="w-12 h-12 bg-blue-100 rounded-full flex items-center justify-center">
                 <img
           src="mikeross.jpeg"
-          alt="mikeross"
+          alt="Shakira Mia"
           className="w-full h-full object-cover rounded-full"
         />
                 </div>
@@ -158,7 +158,7 @@ const HomePage: React.FC = () => {
                 <div className="w-12 h-12 bg-purple-100 rounded-full flex items-center justify-center">
                 <img
           src="sharique.jpeg"
-          alt="Sharique"
+          alt="Shakira Mia"
           className="w-full h-full object-cover rounded-full"
         />
                 </div>
